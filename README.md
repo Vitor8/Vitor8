@@ -1,6 +1,6 @@
 ## Vitor Hugo Braz Leite
 
-- Front End Jr. Developer | Open for work
+- Front End Jr. Developer | Open to work
 - Estudante de Desenvolvimento Web na Trybe
 - Contato: vitor.h.braz.leite@gmail.com
 - Linkedin: linkedin.com/in/vitorhugoleite/
