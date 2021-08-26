@@ -4,6 +4,7 @@
 - Estudante de Desenvolvimento Web na Trybe
 - Contato: vitor.h.braz.leite@gmail.com
 - Linkedin: linkedin.com/in/vitorhugoleite/
+- Blog Medium: vitor-hugo-braz-leite.medium.com/
 
 <div>
  
