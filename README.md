@@ -7,6 +7,7 @@ Current I am a Full Stack Developer at VilaApps, a brazilian software house, wor
 • React Native, Angular, Type Script, NestJS, PHP (Laravel) and Bit Bucket (8 months)
  
 • SCRUM and Kanban
+
 • Fluent English and portuguese native speaker
 
 Linkedin: linkedin.com/in/vitorhugoleite/
