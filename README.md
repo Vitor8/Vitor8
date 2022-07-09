@@ -10,4 +10,5 @@ Current I am a Full Stack Developer at VilaApps, a brazilian software house, wor
 • Fluent English and portuguese native speaker
 
 Linkedin: linkedin.com/in/vitorhugoleite/
+
 Email: vitor.hugo.braz.leite@gmail.com
