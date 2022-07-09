@@ -1,7 +1,7 @@
 ## Vitor Hugo Braz Leite
 
-- Estudante de Desenvolvimento Web | Trybe | Open to work
-- Contato: vitor.h.braz.leite@gmail.com
+- Full Stack Developer at VilaApps. React | React Native | NodeJS | Express | NestJS | MySQL | MongoDB
+- Email: vitor.hugo.braz.leite@gmail.com
 - Linkedin: linkedin.com/in/vitorhugoleite/
 
 <div>
