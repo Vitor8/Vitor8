@@ -12,4 +12,4 @@ Current I am a Full Stack Developer at VilaApps, a brazilian software house, wor
 
 Linkedin: linkedin.com/in/vitorhugoleite/
 
-Email: vitor.hugo.braz.leite@gmail.com
+Email: vitor.h.braz.leite@gmail.com
