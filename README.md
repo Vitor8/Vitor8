@@ -1,4 +1,4 @@
-Current I am a Full Stack Developer at VilaApps, a brazilian software house, working mostly with React and NestJS.
+Currently, I am a Full Stack Developer at VilaApps, a brazilian software house, working mostly with React and NestJS.
 
 • HTML, CSS, JavaScript, Jest, Git and GitHub (1 year and 5 months)
 
